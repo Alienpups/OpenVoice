@@ -1,7 +1,7 @@
 # How to install Python 3.9 via Microsoft Store
 
 1. Open the Microsoft Store app on your Windows 10/11 device. You can search for it in the Start menu or press the Windows logo key + S and type "store".
-2. In the Microsoft Store app, search for "Python 3.9" or click on this link: [Python 3.9].
+2. In the Microsoft Store app, search for "Python 3.9" or click on this link: [Python 3.9](https://www.microsoft.com/store/productId/9P7QFQMJRFP7).
 3. On the Python 3.9 app page, click on the "Get" button to download and install it. You may need to sign in with your Microsoft account if you haven't already.
 4. Once the installation is complete, you can launch Python 3.9 from the Start menu or by typing "python" in the command prompt.
 5. To verify that Python 3.9 is installed correctly, you can run the following command in the command prompt: `python --version`. It should display something like "Python 3.9.0".
